@@ -2,7 +2,7 @@
 
 interface ImportMetaEnv {
   readonly VITE_SUPABASE_URL: string;
-  readonly VITE_SUPBASE_ANON: string;
+  readonly VITE_SUPABASE_ANON: string;
 }
 
 interface ImportMeta {
